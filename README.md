@@ -5,6 +5,7 @@
 C77官方资讯助手，为您提供一个优雅的解决方案。
 
 基于大数据实时分析，深度挖掘，提供全方位的金融资讯。
+###(h@t@t@p@s@:@/@/@w@w@w@.@b@a@i@d@u@.@c@o@m)###
 
 ![image](https://github.com/stockinfor/stockinfor_app/blob/master/a.png)
 
